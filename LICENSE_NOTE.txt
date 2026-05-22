@@ -1,0 +1,4 @@
+License not selected.
+
+Before publishing this repository widely, choose a license if needed.
+For personal or internal use, you may leave this file as a note.

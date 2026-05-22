@@ -1,0 +1,4 @@
+# No third-party runtime dependencies.
+# The GUI uses tkinter from the Python standard library.
+# Optional for building an EXE:
+# pyinstaller

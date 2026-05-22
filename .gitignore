@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Generated certificate outputs - do not commit private key/password files
+generated_certificates/
+*.pfx
+*.cer
+*_password.txt
+*_log.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
